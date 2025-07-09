@@ -59,15 +59,3 @@ A landing page consome a API criada no mini projeto Módulo 4, hospedada também
 
 👉 [https://api-edumais.vercel.app](https://api-edumais.vercel.app)
 
-### Rotas GET da API:
-- `/dicas-estudo`
-- `/plataformas-gratuitas`
-- `/tecnicas-memorizacao`
-
----
-
-## 🚀 Como executar localmente
-
-1. Clone este repositório:
-```bash
-git clone https://github.com/EliasEduardoDEV/Ladingpage-APIEduMais-.git
